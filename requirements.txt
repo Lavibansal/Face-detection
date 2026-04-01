@@ -1,0 +1,5 @@
+# OpenCV-based face recognition project.
+# Use opencv-contrib-python because it includes the face module.
+opencv-contrib-python
+flask
+pandas
